@@ -452,8 +452,10 @@ hr.new4 {
 }
 .contact-hover-item-small {
   float: right;
-  color: #9b9b9b
   font-style: italic;
+  font-size: 14px;
+  color: #9b9b9b
+
 }
 
 .introduction-container {
