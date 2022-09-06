@@ -421,7 +421,7 @@ hr.new4 {
 
 .name-h1 {
   margin-bottom: 30px;
-  --n:12;
+  --n:20;
 }
 
 /*About Me Section*/
@@ -1067,4 +1067,3 @@ textarea {
   background-color: #e6e6e6;
   border-color: #adadad;
 }
-
