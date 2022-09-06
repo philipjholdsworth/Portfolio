@@ -103,6 +103,8 @@ p {
 
 .ten-top-margin {
   margin-top: 10px;
+  margin-bottom: 10px;
+
 }
 
 .thirty-top-margin {
@@ -254,7 +256,7 @@ p {
 }
 
 .project-icon {
-  max-height: 150px;
+  max-height: 150px
 }
 
 /*Content containers*/
@@ -497,7 +499,7 @@ hr.new4 {
 }
 
 .bepanda-container {
-  text-align: center;
+  text-align: left;
   float: left
 }
 
