@@ -410,7 +410,7 @@ hr.new4 {
 }
 
 .main-container {
-  padding: 100px;
+  padding: 150px;
 }
 
 /*Name Section*/
@@ -421,7 +421,7 @@ hr.new4 {
 
 .name-h1 {
   margin-bottom: 30px;
-  --n:20;
+  --n:12;
 }
 
 /*About Me Section*/
