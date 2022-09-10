@@ -374,7 +374,7 @@ a {
 
 
 hr.new4 {
-  margin-left: 5px;
+  margin-left: -5px;
   margin-right: 5px;
   background-color: white;
   border-color: white;
@@ -577,7 +577,7 @@ hr {
 }
 
 .SONY-Section {
-  max-width: 700px
+  max-width: 1200px
 }
 
 .SONY-Section h3 {
@@ -597,6 +597,11 @@ hr {
 
 .SONY-text-container {
   max-width: 1200px;
+}
+
+
+.Veridian-text-container {
+  max-width: 2000px;
 }
 
 .SONY-system-architecture {
